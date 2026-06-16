@@ -2,6 +2,7 @@
 
 A comprehensive web-based event management platform designed for schools and educational institutions to organize, manage, and register for events efficiently.
 
+
 ## 📋 Overview
 
 Eventra is a PHP-based event management system that streamlines the process of creating, approving, and registering for school events. It provides separate interfaces for regular users and administrators, enabling effective event coordination and participant management.
@@ -30,7 +31,10 @@ Eventra is a PHP-based event management system that streamlines the process of c
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Server**: Apache/any PHP-compatible server
 - **Session Management**: PHP Sessions
-
+- <img width="1280" height="590" alt="IMG_8112" src="https://github.com/user-attachments/assets/52b5b01d-6441-409f-87ff-1f3881573ce3" />
+<img width="1280" height="591" alt="IMG_8113" src="https://github.com/user-attachments/assets/c4b1ff25-4687-44fa-96a9-77fe96abb49b" />
+<img width="1280" height="587" alt="IMG_8119" src="https://github.com/user-attachments/assets/42ec1fe7-64a1-4be9-a820-023fb868075b" />
+<img width="1280" height="589" alt="IMG_8118" src="https://github.com/user-attachments/assets/b0c367a8-ca7a-4957-ae24-bab4d6f566b3" />
 ## 📁 File Structure
 
 ```
